@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<QCARConfig>
+    <Tracking>
+        <VuMark name="VuforiaEAP" size="0.100 0.12219" />
+    </Tracking>
+</QCARConfig>
